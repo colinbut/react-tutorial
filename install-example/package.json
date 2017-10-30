@@ -1,0 +1,19 @@
+{
+  "name": "install-example",
+  "version": "1.0.0",
+  "description": "installation example",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Colin But",
+  "license": "ISC"
+}
